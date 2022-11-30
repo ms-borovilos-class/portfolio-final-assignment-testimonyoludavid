@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "See if app is functional",
+      "setup": "npm install",
+      "run": "npm build && npm start",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
