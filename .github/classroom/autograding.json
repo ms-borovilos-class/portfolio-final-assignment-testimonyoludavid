@@ -3,7 +3,7 @@
     {
       "name": "See if app is functional",
       "setup": "npm install",
-      "run": "npm build && npm start",
+      "run": "npm run build",
       "input": "",
       "output": "",
       "comparison": "included",
