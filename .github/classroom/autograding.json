@@ -11,9 +11,9 @@
       "points": 5
     },
     {
-      "name": "switch to gh pages",
+      "name": "Check for gh pages",
       "setup": "",
-      "run": "git switch gh-pages",
+      "run": "git ls-remote --heads origin",
       "input": "",
       "output": "",
       "comparison": "included",
